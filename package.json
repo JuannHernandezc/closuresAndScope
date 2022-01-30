@@ -1,0 +1,19 @@
+{
+  "name": "closuresandscope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuannHernandezc/closuresAndScope.git"
+  },
+  "author": "Juan Nicolas Hernandez Chavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuannHernandezc/closuresAndScope/issues"
+  },
+  "homepage": "https://github.com/JuannHernandezc/closuresAndScope#readme"
+}
